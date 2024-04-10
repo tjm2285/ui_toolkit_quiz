@@ -1,0 +1,16 @@
+.button {
+    background-color: rgb(236, 255, 0);
+    -unity-font: url('project://database/Assets/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&guid=b88f46163b0ec73439abb9fa78b318cf&type=3#NotInter-Regular');
+    font-size: 24px;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+}
+
+.label {
+    font-size: 24px;
+    -unity-text-align: middle-center;
+    color: rgb(255, 255, 255);
+    -unity-font-style: bold;
+}
